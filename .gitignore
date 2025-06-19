@@ -1,0 +1,34 @@
+# 🔒 API key and secrets
+.env
+
+# 🐍 Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# 💻 Virtual environments
+venv/
+.env/
+env/
+.venv/
+
+# 💡 Streamlit temporary files
+.streamlit/
+
+# 💾 Log files
+*.log
+
+# 💻 VS Code config
+.vscode/
+
+# 🧪 Test files & coverage
+htmlcov/
+coverage.xml
+.cache/
+
+# 🖼️ System-specific
+.DS_Store
+Thumbs.db
+
